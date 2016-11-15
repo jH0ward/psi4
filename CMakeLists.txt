@@ -192,7 +192,7 @@ ExternalProject_Add(psi4_core
 add_dependencies(psi4_core ambit_external
                            chemps2_external
                            dkh_external
-                           libefp_external
+                           #libefp_external
                            erd_external
                            gdma_external
                            #gtfock_external
